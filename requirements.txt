@@ -3,10 +3,10 @@ numpy==2.1.3
 pandas==2.2.3
 scikit-learn==1.6.1
 tensorflow==2.21.0
-matplotlib
-seaborn
-tensorboard
-joblib
+matplotlib==3.10.0
+seaborn==0.13.2
+tensorboard==2.21.0
+joblib==1.6.0
 jupyter
 ipykernel
 ```
